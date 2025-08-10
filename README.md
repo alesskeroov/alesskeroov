@@ -88,9 +88,11 @@ jobs:
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alesskeroov&show_icons=true&locale=en" alt="alesskeroov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alesskeroov&" alt="alesskeroov" /></p>
+| ![stats](https://github-readme-stats.vercel.app/api?username=alesskeroov&show_icons=true&locale=en) | ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=alesskeroov&show_icons=true&locale=en&layout=compact) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=alesskeroov&) |
+| :---: | :---: | :---: |
+
+
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
