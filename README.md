@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Rəvan Ələsgərov</h1>
-<h3 align="center">.NET Developer</h3>
+### Hi there 👋, Rəvan Ələsgərov
+#### .Net Developer
+![.Net Developer](https://img.shields.io/badge/C%23-Programming-blue?logo=c-sharp&logoColor=white)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alesskeroov&label=Profile%20views&color=0e75b6&style=flat" alt="alesskeroov" /> </p>
+I’m a passionate .NET developer always eager to learn and improve my skills. I enjoy solving problems and building efficient software. Growing step by step in my career and ready for new challenges.
 
-- 🌱 I’m currently learning **.Net**
+Skills: .Net/C#/MSSQL/Git/Github
 
-- 📫 How to reach me **elesgerovrrevan@gmail.com**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning .Net 
+- 📫 How to reach me: elesgerovrrevan@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rəvan-ələsgərov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rəvan ələsgərov" height="30" width="40" /></a>
-<a href="https://instagram.com/alesskeroov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alesskeroov" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alesskeroov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rəvan-ələsgərov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alesskeroov/)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alesskeroov&show_icons=true&locale=en&layout=compact" alt="alesskeroov" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=alesskeroov)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alesskeroov&show_icons=true&locale=en" alt="alesskeroov" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesskeroov)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alesskeroov&" alt="alesskeroov" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alesskeroov&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=alesskeroov)  
+
