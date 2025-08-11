@@ -89,8 +89,7 @@ jobs:
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
-| ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=alesskeroov&show_icons=true&locale=en&layout=compact) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=alesskeroov) |
-
+| ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=alesskeroov&show_icons=true&locale=en&layout=compact) |
 
 
 
