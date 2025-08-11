@@ -91,7 +91,7 @@ jobs:
 
 | ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=alesskeroov&show_icons=true&locale=en&layout=compact) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=alesskeroov) |
 
-| :---: | :---: | :---: |
+
 
 
 
